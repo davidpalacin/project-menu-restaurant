@@ -1,7 +1,13 @@
+body{
+    padding-top: 50px;
+}
 .menu-item{
     text-align: center;
 }
 .food-desc{
     text-align: center;
     color: grey;
+}
+.card{
+    margin-bottom: 15px;
 }
